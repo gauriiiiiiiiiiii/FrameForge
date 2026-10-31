@@ -1,7 +1,6 @@
 .venv/
 __pycache__/
 *.pyc
-output/
 models/
 .env
 *.mp4
