@@ -1,0 +1,8 @@
+requests>=2.31
+moviepy>=2.0
+Pillow>=10.0
+numpy>=1.26
+edge-tts>=6.1       # TTS engine A (free, needs internet)
+mutagen>=1.47       # audio duration reading
+# Optional: kokoro   # TTS engine B (fully offline, heavier install)
+# Optional: soundfile  # needed with kokoro
